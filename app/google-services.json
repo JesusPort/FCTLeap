@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997751051999",
+    "project_id": "fctleap",
+    "storage_bucket": "fctleap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997751051999:android:e5155c28d296204a917b6a",
+        "android_client_info": {
+          "package_name": "com.example.fctleap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nc6-AjRCk_07CszfkDpGuC1Lszt2-z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
